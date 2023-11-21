@@ -30,5 +30,3 @@ htmlcov/
 
 .github/**
 .venv
-.env_file
-trust.json
